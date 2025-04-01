@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sq-ch2-ex8" />
+        <module name="sq-ch3-ex8" />
         <module name="sq-ch3-ex7" />
         <module name="sq-ch3-ex1" />
         <module name="sq-ch2-ex3" />

@@ -6,15 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sq-ch4-ex3" />
         <module name="sq-ch2-ex8" />
+        <module name="sq-ch4-ex2" />
+        <module name="sq-ch4-ex7" />
+        <module name="demo" />
+        <module name="sq-ch2-ex3" />
+        <module name="sq-ch4-ex5" />
+        <module name="sq-ch2-ex2" />
         <module name="sq-ch3-ex8" />
         <module name="sq-ch3-ex7" />
         <module name="sq-ch3-ex1" />
-        <module name="sq-ch2-ex3" />
         <module name="sq-ch3-ex4" />
-        <module name="sq-ch2-ex2" />
         <module name="sq-ch3-ex3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sq-ch4-ex1" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="sq-ch4-ex1" options="" />
+    </option>
   </component>
 </project>

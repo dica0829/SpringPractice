@@ -9,6 +9,7 @@
         <module name="sq-ch4-ex3" />
         <module name="sq-ch2-ex8" />
         <module name="sq-ch4-ex2" />
+        <module name="sq-ch4-ex1" />
         <module name="sq-ch4-ex7" />
         <module name="demo" />
         <module name="sq-ch2-ex3" />
@@ -21,9 +22,6 @@
         <module name="sq-ch3-ex3" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="sq-ch4-ex1" target="21" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

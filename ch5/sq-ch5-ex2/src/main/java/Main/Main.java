@@ -15,6 +15,8 @@ public class Main {
         boolean b = s1.getCommentRepository() == s2.getCommentRepository();
 
         System.out.println(b);
+        System.out.println("version4를 의미한다.");
+        System.out.println("maven에 명시를 제대로 안하니까 오류가 난다.");
     }
 }
 
